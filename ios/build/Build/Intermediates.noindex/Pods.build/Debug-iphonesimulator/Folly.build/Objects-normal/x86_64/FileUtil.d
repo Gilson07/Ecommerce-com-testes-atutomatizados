@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/FileUtil.cpp \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/FileUtil.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/Portability.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/CPortability.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/Range.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/String.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/CpuId.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/Likely.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/Traits.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/ScopeGuard.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/Utility.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/lang/UncaughtExceptions.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/net/NetworkSocket.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/net/detail/SocketFileDescriptorMap.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Windows.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Fcntl.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/SysUio.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/IOVec.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/SysTypes.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Unistd.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/detail/FileUtilDetail.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/net/NetOps.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Sockets.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/Stdlib.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/SysFile.h \
+  /Users/gillson.sales/Desktop/ecommerce/ecommerce/ios/Pods/Folly/folly/portability/SysStat.h
